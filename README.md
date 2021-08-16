@@ -1,2 +1,2 @@
-# aid
-Attributable Identifier (AID) Specification
+# Attributable Identifier (AID) Specification
+
